@@ -1,4 +1,4 @@
-#Example using Redux Thunk
+# Example using Redux Thunk
 
 Simple and objective example of how to fetch data with Redux Thunk
 
